@@ -1,0 +1,35 @@
+_repo: The-Boy-Chums-in-the-Florida-Jungleor-Charlie-West-and-Walter-Hazard-with-the-Seminole-Indian__43875
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Davis, J. Watson
+    alias: Davis, John Watson
+    birthdate: 1870
+    deathdate: 1959
+    gutenberg_agent_id: '32768'
+    url: http://www.gutenberg.org/2009/agents/32768
+covers:
+- cover_type: archival
+  image_path: 43875-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ely, Wilmer M. (Wilmer Mateo)
+    alias: Ely, Wilmer Mateo
+    gutenberg_agent_id: '32767'
+    url: http://www.gutenberg.org/2009/agents/32767
+description: ''
+gutenberg_issued: '2013-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43875'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Seminole Indians -- Juvenile fiction'
+title: 'The Boy Chums in the Florida Jungle
+
+  or, Charlie West and Walter Hazard with the Seminole Indians'
+url: http://www.gutenberg.org/ebooks/43875
